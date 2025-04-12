@@ -33,7 +33,7 @@ header h1 {
 .avatar {
     margin: 0 auto 20px;
 }
-.avatar img {
+.avatar img {Avatar.jpg 
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -74,7 +74,7 @@ header h1 {
 }
 .cta button {
     background: #fff;
-    color: #007BFF;
+    color: #8B0000;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
